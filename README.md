@@ -1,2 +1,2 @@
-# Project-1
-First project for University of Utah Web Development Bootcamp
+# API_Project
+Team Project 1 for API's
