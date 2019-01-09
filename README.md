@@ -9,7 +9,7 @@ This site utilizes weather data from the National Weather Service to give a real
 Our goal was to offer real-time, custom weather reports from all three API's to give outdoor enthusiasts the most up-to-date and relevant information pertaining to their ski day.
 
 ## Wasatch Wx Station
-Click here for your [Wasatch Wx Stations](https://jpgaarder.github.io/API_Project/index.html) access.
+Click here for your [Wasatch Wx Stations](https://danielut4.github.io/WasatchWX/bcc.html) access.
 
 ## CREDITS
 
